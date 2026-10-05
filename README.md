@@ -1,17 +1,3 @@
-# mungkin_ovo
+<img width="497" height="990" alt="Screenshot 2026-10-05 113900" src="https://github.com/user-attachments/assets/063e55e7-d1f6-4501-a8a8-d43360e3e1af" />
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="498" height="986" alt="Screenshot 2026-10-05 113916" src="https://github.com/user-attachments/assets/6d067144-da16-4ad9-82bb-28f39652856f" />
